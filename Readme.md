@@ -234,9 +234,11 @@ This project helped me learn:
 
 ---
 
-## DEMO VIDEO
+## 🎥 Demo Video
 
-[![Results](./assets/results.mp4)]https://youtu.be/K0tXds3pzak
+🔗 Watch the project demo:
+
+https://youtu.be/K0tXds3pzak
 
 ---
 
