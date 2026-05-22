@@ -203,7 +203,7 @@ http://localhost:5173
 
 ### Homepage
 
-[Homepage](./assets/homepage.png)
+![Homepage](./assets/homepage.png)
 
 
 
