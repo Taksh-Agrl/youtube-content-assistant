@@ -235,7 +235,7 @@ This project helped me learn:
 
 ## DEMO VIDEO
 
-![Results](./assets/results.mp4)
+[![Results](./assets/results.mp4)]https://youtu.be/K0tXds3pzak
 
 ---
 
