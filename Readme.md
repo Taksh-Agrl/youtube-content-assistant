@@ -150,7 +150,7 @@ youtube-content-assistant/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/youtube-content-assistant.git
+git clone https://github.com/Taksh-Agrl/youtube-content-assistant.git
 
 cd youtube-content-assistant
 ```
