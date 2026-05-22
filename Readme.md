@@ -1,5 +1,11 @@
 # 🚀 YouTube Content Assistant
 
+
+
+### Homepage
+
+![Homepage](./assets/homepage.png)
+
 > AI-powered content generation platform that uses multiple specialized agents to create YouTube titles, hooks, scripts, thumbnail text, and SEO metadata.
 
 ![React](https://img.shields.io/badge/React-19-blue)
@@ -199,11 +205,6 @@ http://localhost:5173
 
 ---
 
-## 📸 Screenshots
-
-### Homepage
-
-![Homepage](./assets/homepage.png)
 
 
 
